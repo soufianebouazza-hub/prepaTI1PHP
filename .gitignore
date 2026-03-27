@@ -3,3 +3,7 @@
 # On protège nos variables et constantes dangereuses
 # du fichier config.php
 config.php
+# on cache le fichier datas 
+datas/*
+# saufe le templates
+!datas/templates
