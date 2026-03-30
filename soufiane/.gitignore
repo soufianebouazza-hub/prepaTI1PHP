@@ -7,3 +7,5 @@ config.php
 datas/*
 # saufe le templates
 !datas/templates
+#.vs
+.vscode
